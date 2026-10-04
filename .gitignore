@@ -1,0 +1,9 @@
+.env
+.venv/
+.uploads/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_tmp/
+vectorstore/index.faiss
+vectorstore/documents.json
